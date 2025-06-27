@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(161, 192, 76);
+  font-size: 18px;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  display: flex;
+}
+
+.connect {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.profileContainer {
+  width: 50%;;
+}
+
+.techJourney {
+  width: 50%;
+}
+
+.profilePicture {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.logo {
+  width: 30px;
+}
+
+.submitButton {
+  background-color: rgb(205, 207, 199);
+  border: solid 0px;
+  width: 80px;
+  height: 30px;
+  border-radius: 15px;
+  font-size: 16px;
+  font-weight: bold;  
+}
+
+.submitButton:hover {
+  background-color:  rgb(131, 134, 119);
+  font-style: italic;
+  color: bisque;
+}
+
+.message {
+  background-color: rgb(205, 207, 199);
+  width: 100%;
+}
+
+.feedback {
+ justify-items: center;
+ width: 100%;
+}
+
+footer {
+  text-align: center;
+}
