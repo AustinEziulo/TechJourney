@@ -1,6 +1,7 @@
 body {
-  background-image: url("darkBackground.jpg");
   font-size: 18px;
+  color: #1f59a5;
+  background: linear-gradient(to bottom right,  #39a6c2, #d7dce0);
 }
 
 header {
@@ -18,7 +19,7 @@ main {
 }
 
 .profileContainer {
-  width: 50%;;
+  width: 50%;
 }
 
 .techJourney {
